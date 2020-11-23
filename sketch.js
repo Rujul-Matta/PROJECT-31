@@ -34,25 +34,25 @@ function setup() {
   for(var l = 0; l <= width; l += 60){
     plinkos.push(new Plinko(l, 400, 10));
   }
-  for(var l = 0; l <= width; l += 60){
+  for(var l = 0; l <= width; l += 75){
     plinkos.push(new Plinko(l, 350, 10));
   }
   for(var l = 0; l <= width; l += 60){
     plinkos.push(new Plinko(l, 300, 10));
   }
-  for(var l = 0; l <= width; l += 60){
+  for(var l = 0; l <= width; l += 75){
     plinkos.push(new Plinko(l, 250, 10));
   }
   for(var l = 0; l <= width; l += 60){
   plinkos.push(new Plinko(l, 200, 10));
   }
-  for(var l = 0; l <= width; l += 60){
+  for(var l = 0; l <= width; l += 75){
     plinkos.push(new Plinko(l, 150, 10));
   }
   for(var l = 0; l <= width; l += 60){
   plinkos.push(new Plinko(l, 100, 10));
   }
-  for(var l = 0; l <= width; l += 60){
+  for(var l = 0; l <= width; l += 75){
     plinkos.push(new Plinko(l, 50, 10));
   }
 
